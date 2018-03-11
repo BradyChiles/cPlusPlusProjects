@@ -134,6 +134,8 @@ int main()
 		cout << endl;
 	}
 	
+	std::getchar();
+	
 	return 0;	
 }
 
